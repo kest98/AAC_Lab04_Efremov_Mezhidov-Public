@@ -1,0 +1,14 @@
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\bin\Debug\net10.0\Lab04_Mezhidov_Efremov.exe
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\bin\Debug\net10.0\Lab04_Mezhidov_Efremov.deps.json
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\bin\Debug\net10.0\Lab04_Mezhidov_Efremov.runtimeconfig.json
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\bin\Debug\net10.0\Lab04_Mezhidov_Efremov.dll
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\bin\Debug\net10.0\Lab04_Mezhidov_Efremov.pdb
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.AssemblyInfoInputs.cache
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.AssemblyInfo.cs
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.dll
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\refint\Lab04_Mezhidov_Efremov.dll
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.pdb
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\Lab04_Mezhidov_Efremov.genruntimeconfig.cache
+C:\Users\Student_02\documents\lab04_Mezhidov_Efremov\obj\Debug\net10.0\ref\Lab04_Mezhidov_Efremov.dll
